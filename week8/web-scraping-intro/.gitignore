@@ -1,0 +1,17 @@
+# Python execution cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment variables & generated outputs
+.env
+data/*.json
